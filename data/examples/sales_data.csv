@@ -1,0 +1,23 @@
+date,product,category,revenue,quantity,region
+2024-01-01,Product A,Electronics,1500.50,10,North
+2024-01-02,Product B,Clothing,850.25,5,South
+2024-01-03,Product A,Electronics,1200.00,8,North
+2024-01-04,Product C,Furniture,2500.75,3,East
+2024-01-05,Product B,Clothing,650.00,4,West
+2024-01-06,Product A,Electronics,1800.30,12,North
+2024-01-07,Product D,Electronics,950.50,6,South
+2024-01-08,Product C,Furniture,3200.00,4,East
+2024-01-09,Product B,Clothing,720.25,5,West
+2024-01-10,Product A,Electronics,1400.00,9,North
+2024-01-11,Product E,Clothing,550.75,3,South
+2024-01-12,Product D,Electronics,1100.00,7,East
+2024-01-13,Product C,Furniture,2800.50,3,West
+2024-01-14,Product A,Electronics,1600.25,11,North
+2024-01-15,Product B,Clothing,900.00,6,South
+2024-01-16,Product E,Clothing,600.50,4,East
+2024-01-17,Product D,Electronics,1300.75,8,West
+2024-01-18,Product A,Electronics,1700.00,12,North
+2024-01-19,Product C,Furniture,3000.25,4,South
+2024-01-20,Product B,Clothing,750.50,5,East
+
+
